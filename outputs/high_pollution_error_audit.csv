@@ -1,0 +1,3 @@
+"Segment","N","MAE_mg_m3","RMSE_mg_m3"
+"All test observations",1040,0.375885774768706,0.551682189062374
+"Higher-CO test observations (>= train+validation 75th percentile)",192,0.767467807794593,0.945201680313333
